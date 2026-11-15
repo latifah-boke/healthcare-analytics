@@ -21,6 +21,8 @@ Result: 54,860 clean rows.
 
 I loaded the clean data into SQLite and answered 11 business questions using GROUP BY, HAVING, INNER and LEFT JOIN, CASE and subqueries.
 
+All 11 queries, with the result of each: [healthcare_queries.sql](healthcare_queries.sql)
+
 Example: which medical conditions have an average bill above the overall average?
 
 ```sql
