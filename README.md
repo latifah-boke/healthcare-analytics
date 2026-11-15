@@ -36,6 +36,8 @@ ORDER BY avg_bill DESC;
 
 ## 3. Power BI dashboard
 
+![Healthcare dashboard 2019-2024](1794765767711_image.png)
+
 A one-page dashboard with a calendar table, DAX measures (COUNTROWS, SUM, AVERAGE, CALCULATE, DIVIDE), KPI cards, a monthly admissions trend, charts by condition, admission type and insurer, and slicers for gender, year and condition.
 
 ## Key findings
